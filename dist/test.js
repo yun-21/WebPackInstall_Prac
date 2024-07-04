@@ -13,4 +13,4 @@ var all = function all() {
   var nusen = nus(10, 6);
   return adden - nusen;
 };
-all();
+console.log(all());

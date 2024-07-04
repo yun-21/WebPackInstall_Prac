@@ -13,4 +13,4 @@ const all = ():number=>{
   let nusen = nus(10, 6);
   return adden-nusen
 }
-all()
+console.log(all())
