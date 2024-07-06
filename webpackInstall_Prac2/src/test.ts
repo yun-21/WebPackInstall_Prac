@@ -1,4 +1,5 @@
 function adds(a:number,b:number):number{
-    return a + b
+    const result = a + b;
+    return result
 }
 console.log(adds)
